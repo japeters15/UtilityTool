@@ -5,7 +5,7 @@ A tool used for Debugging your code!
 Inside of terminal type, "npm install utility_debug_tool --save-dev".
 
 # Usage
-In order to start the debug tool you must add "DEBUG=true" in the front of "nodemon src/server.js"
+In order to start the debug tool you must add "DEBUG=true" in the front of "nodemon lib/util.js"
 
 ## Example Usage
 
